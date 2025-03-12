@@ -233,6 +233,7 @@ By using these **Docker tools**, you can:
 
 🚀 Now, you're ready to **boost your productivity** with Docker!
 <!-- Uploading "Screenshot 2025-03-12 at 12.27.42 PM.png"... -->
+<img width="1440" alt="Screenshot 2025-03-12 at 12 27 42 PM" src="https://github.com/user-attachments/assets/6ccde878-55ac-430a-ab7e-b549a07c5b35" />
 
 ---
 
